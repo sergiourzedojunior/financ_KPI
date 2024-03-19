@@ -2,6 +2,9 @@
 
 Aplicações em python com dados financeiros do livro Análise Multivariada da FEA-USP
 
+
+![tabela](figs/tabela.png) 
+
 Há variável dependente no problema de pesquisa?
 |
 |--- Sim: Dependência
@@ -25,6 +28,8 @@ Há variável dependente no problema de pesquisa?
      |--- 3. MDS (Escalonamento multidimensional)
 
 
+
+
 ## análises descritivas
 
 * estatísticas
@@ -34,4 +39,5 @@ Há variável dependente no problema de pesquisa?
 - pairplot
 - Scatterplot
 - normaltest
-- 
+
+![pairplot_ipeadata](figs/pairplot_ipeadata.png) 
