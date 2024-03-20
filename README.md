@@ -23,15 +23,54 @@ file: desc.ipynb
 
 file: afatorial.ipynb
 
-conceito: A Análise Fatorial (AF) é uma técnica estatística que busca, através da avalia- ção de um conjunto de variáveis, a identificação de dimensões de variabilidade comuns existentes em um conjunto de fenômenos; o intuito é desvendar estrutu- ras existentes, mas que não observáveis diretamente. Cada uma dessas dimensões de variabilidade comum recebe o nome de FATOR.
+## Resumo em pontos-chave sobre a Análise Fatorial (AF):
 
-Um raciocínio subjacente dessa técnica é que se cada fenômeno varia independentemente dos demais, então existirão tantas dimensões quanto os próprios fenômenos analisados, mas se os fenômenos não variam independentemente, podendo haver relações de dependência entre eles, pode-se concluir que existe um menor número de dimensões de variação do que os fenômenos. A AF permite detectar a existência de certos padrões subjacentes nos dados, de maneira que possam ser reagrupados em um conjunto menor de dimensões ou fatores.
+**Objetivo:**
 
-Resumidamente, a AF tem como um de seus principais objetivos tentar des- crever um conjunto de variáveis originais através da criação de um número menor de dimensões ou fatores.
+* Identificar dimensões de variabilidade comuns (fatores) em um conjunto de fenômenos.
+* Desvendar estruturas existentes, mas não observáveis diretamente.
 
-Nas técnicas de interdependência, como no caso da AF, as variáveis (V) são analisadas com o intuito de maximizar o poder de explicação do conjunto de variáveis. Cada variável é explicada levando em consideração todas as outras, incluindo-se as variáveis latentes (Fatores -F_{n}).
+**Raciocínio:**
 
-O intuito das técnicas de interdependência não é o de prever o valor da variável dependente e sim identificar uma estrutura de relacionamentos que permita a explicação das variações ocorridas nas variáveis analisadas.
+* Se os fenômenos variam independentemente, existem tantas dimensões quanto os próprios fenômenos.
+* Se os fenômenos variam de forma dependente, existe um número menor de dimensões.
+* A AF detecta padrões subjacentes e reagrupa os dados em um número menor de dimensões (fatores).
+
+**Resumo:**
+
+* A AF busca descrever um conjunto de variáveis originais através de um número menor de fatores.
+* Maximiza o poder de explicação do conjunto de variáveis.
+* Cada variável é explicada considerando todas as outras, incluindo os fatores latentes (F_{n}).
+
+**Objetivo das técnicas de interdependência (AF inclusa):**
+
+* Identificar uma estrutura de relacionamentos que explique as variações nas variáveis analisadas.
+* Não prever o valor da variável dependente.
+
+**Conceitos importantes:**
+
+* Fator: Dimensão de variabilidade comum.
+* Variável latente: Variável não observável diretamente.
+* Técnicas de interdependência: Analisam as variáveis para explicar as relações entre elas.
+
+**Aplicações da AF:**
+
+* Psicologia: Identificar fatores de personalidade.
+* Economia: Analisar fatores que influenciam o crescimento econômico.
+* Marketing: Segmentar o mercado de consumo.
+* Educação: Avaliar o desempenho de alunos.
+
+**Observação:**
+
+* A AF é uma técnica complexa com diferentes métodos e ferramentas.
+* A escolha do método depende dos objetivos da pesquisa e das características dos dados.
+
+**Recursos adicionais:**
+
+* [https://pt.wikipedia.org/wiki/An%C3%A1lise_fatorial](https://pt.wikipedia.org/wiki/An%C3%A1lise_fatorial)
+* [https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados)
+* FIPECAFI - Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras. (2009). Análise multivariada: para os cursos de administração, ciências contábeis e economia. 1. ed. - 2. reimpr. São Paulo: Atlas.
+
 
 ## Passos para a análise fatorial
 
