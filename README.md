@@ -83,7 +83,7 @@ file: afatorial.ipynb
 4. Cálculo dos escores: os escores resultantes desta fase podem ser util dos em diversas outras análises (análise discriminante, cluster, regres logística etc.).
 
 # caso do mercado segurador brasileiro
-- objetivo: classificar as empresas seundo sua capacidade econômico-financeira
+- objetivo: classificar as empresas segundo sua capacidade econômico-financeira
 
 ### Indicadores financeiros
 
@@ -158,10 +158,10 @@ Onde:
 * Fator 2  - alavancagem corresponde a 28,8% da variância explicada
 * Fator 3  - liquidez corresponde a 23,3% da variância explicada
 
-![componenentes](figs/af_screeplot.png) 
+![scree](figs/af_screeplot.png) 
 
-![componenentes](figs/af_fatores.png) 
+![fator](figs/af_fatores.png) 
 
 * clusters para separar empresas em grupos com a mesma característica dos indicadores
 
-![componenentes](figs/af_cluster.png) 
+![cluster](figs/af_cluster.png) 
