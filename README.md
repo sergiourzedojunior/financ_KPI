@@ -65,8 +65,9 @@ file: afatorial.ipynb
 * A AF é uma técnica complexa com diferentes métodos e ferramentas.
 * A escolha do método depende dos objetivos da pesquisa e das características dos dados.
 
-**Recursos adicionais:**
+**Bibliografia:**
 
+* https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html
 * [https://pt.wikipedia.org/wiki/An%C3%A1lise_fatorial](https://pt.wikipedia.org/wiki/An%C3%A1lise_fatorial)
 * [https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-tecnicas-de-analise-fatorial-e-conjunta-de-dados)
 * FIPECAFI - Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras. (2009). Análise multivariada: para os cursos de administração, ciências contábeis e economia. 1. ed. - 2. reimpr. São Paulo: Atlas.
