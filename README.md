@@ -1,4 +1,4 @@
-# Análise Multivariada de dados
+# Análise Multivariada de dados - Análise Fatorial
 
 Aplicações em python com dados financeiros do livro Análise Multivariada da FEA-USP
 
@@ -9,7 +9,7 @@ Aplicações em python com dados financeiros do livro Análise Multivariada da F
 ## análises descritivas
 file: desc.ipynb
 
-##### estatísticas
+##### estatísticas gerais
 - describe
 - Histogram
 - Boxplot
