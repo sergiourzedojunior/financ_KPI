@@ -109,4 +109,20 @@ Onde:
 - RLP → Realizável a longo prazo
 - SRT → Sinistro retido
 
+## Resultados Análise Fatorial
 
+Component_1 is: ICOM, IDAD, ILPG
+Component_2 is: ICAP, PRPL, IALI
+Component_3 is: ILCO, ILGE
+
+* Fator 1  - controle de despesas operacionais corresponde a 32,4% da variância explicada
+* Fator 2  - alavancagem corresponde a 28,8% da variância explicada
+* Fator 3  - alavancagem corresponde a 23,3% da variância explicada
+
+![componenentes](figs/af_screeplot.png) 
+
+![componenentes](figs/af_fatores.png) 
+
+* clusters para separa empresas em grupos com a mesma característica dos indicadores
+
+![componenentes](figs/af_cluster.png) 
